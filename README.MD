@@ -7,6 +7,7 @@ you are able to:
 - Upload new patients data from a sever.
 - Add new patients through a form.
 - Filter the list of patients by name.
+- Delete patient data by double-clicking.
 
 ## What I learned from this project:
 
